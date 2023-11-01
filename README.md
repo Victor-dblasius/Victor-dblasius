@@ -1,16 +1,15 @@
-### Hi there 👋
+# just-me
 
-<!--
-**Victor-dblasius/Victor-dblasius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# -nome:victor blasius david
 
-Here are some ideas to get you started:
+# -🧒idade:15y
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# -👨sexo: masculino
+
+# -🏴sexualidade: hetero
+
+# -🥘comida: strogonoff
+
+# -🎮 game style fav: RPG,FPS
+
+
